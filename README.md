@@ -4,7 +4,10 @@
 2. Segundo, la parte del segundo 
 3. y tercero la otra.
 
-## Parte Carlos
-
-
+# I'm gay!
 ## última parte yo 
+
+## Examen de la unidad
+
+registrar nuevos archivo de prueba unitaria en
+test / index.js
