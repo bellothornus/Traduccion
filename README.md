@@ -46,9 +46,7 @@ registrar nuevos archivo de prueba unitaria en test / index.js
 Las pruebas están escritas usando "cinta"
 Ejecuta  las pruebas unitarias a través de: prueba npm
 
-
-
-#####  Para pruebas locales de explorador sin cabeza ejecute npm run test-browser (Requiere selenio para instalarse - se puede hacer con npm run selenium-install) Ejecutar las pruebas unitarias a través de la prueba npm requiere al menos el nodo v7.0.0
+Para pruebas locales de explorador sin cabeza ejecute npm run test-browser (Requiere selenio para instalarse - se puede hacer con npm run selenium-install) Ejecutar las pruebas unitarias a través de la prueba npm requiere al menos el nodo v7.0.0
 
 ## Pruebas del navegador
 
