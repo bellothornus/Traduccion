@@ -10,7 +10,7 @@
 
 #### Remix
 Remix (también conocido como Browser-Solidity) es un compilador de Solidity basado en navegador y el IDE.
-Visite nuestra [página web] (https://remix.ethereum.org) para usarlo; siempre entregará la última versión.
+Visite nuestra [página web](https://remix.ethereum.org) para usarlo; siempre entregará la última versión.
 
 
 #### Uso fuera de línea
@@ -19,8 +19,8 @@ La rama de páginas fantasma siempre tiene la última versión estable de Remix.
 
 Nota: Contiene la última versión de Solidez disponible en el momento del envasado. No se admiten otras versiones de compilador.
 #### INSTALACIÓN:
-Instala npm y node.js [ver] (https://docs.npmjs.com/getting-started/installing-node), luego hazlo:
- - clon [git] (https://github.com/ethereum/browser-solidity)
+Instala npm y node.js [ver](https://docs.npmjs.com/getting-started/installing-node), luego hazlo:
+ - clon [git](https://github.com/ethereum/browser-solidity)
  - cd browser-solidez
  - npm install - npm install - busca dependencias y ejecuta npm run prepublish para construir la aplicación
 
